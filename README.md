@@ -15,7 +15,7 @@ Este proyecto consiste en un carrito controlado de forma inalámbrica a través 
    - [Control del Motor Principal](#control-del-motor-principal)
    - [Interfaz Web](#interfaz-web)
 5. [Uso del Carrito](#uso-del-carrito)
-6. [Posible Captura de Pantalla](#posible-captura-de-pantalla)
+6. [Captura de Pantalla](#posible-captura-de-pantalla)
 7. [Consideraciones Adicionales](#consideraciones-adicionales)
 8. [Créditos y Licencia](#créditos-y-licencia)
 
