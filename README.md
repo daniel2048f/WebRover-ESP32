@@ -170,6 +170,3 @@ Este código fue creado por Daniel Alejandro Cangrejo López y Camila Andrea Can
 Siente la libertad de modificarlo y mejorarlo según tus necesidades. Se sugiere mantener la atribución original si lo distribuyes o publicas en un repositorio público.
 
 **¡Disfruta construyendo y mejorando tu Carrito RC con ESP32!**
-```
-
----
